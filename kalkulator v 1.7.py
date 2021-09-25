@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+k# -*- coding: utf-8 -*-
 import sys
 from colorama import Fore, Back  # Style
 from tqdm import tqdm
@@ -289,7 +289,7 @@ try:
             print("W budowie!!")
             print("_______________________________________________________________________________________________")
             print("|                     |                                                                       |")
-            print("|   Autor:            |                           Szymon Szauksztel                           |")
+            print("|   Autor:            |                               Krecik                                  |")
             print("|_____________________|_______________________________________________________________________|")
             print("|                     |                                                                       |")
             print("|    Wersja python:   |                              python 3.X                               |")
