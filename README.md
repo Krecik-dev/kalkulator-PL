@@ -9,4 +9,6 @@ objętość: walca, sześcianu, prostopadłościanu, i oblicz silnię
 
 
 
+
+
 Wszelkie prawa zastrzeżone prze grupę KRECIK®
