@@ -334,20 +334,26 @@ try:
                 a = int(input("Wybór: "))
                 if a == 1:
                     a = str(input("wpisz zawartość:\n"))
-                    plik = open("/home/oem/kalkulatory/kalkulator v1.7/plik.txt", "a+")
+                    plik = open("plik.txt", "a+")
                     plik.write("  "+a+'\n')
                     plik.close()
                 elif a == 2:
-                    plik = open("/home/oem/kalkulatory/kalkulator v1.7/plik.txt", "r")
+                    plik = open("plik.txt", "r")
                     plikr=plik.read()
                     plik.close()
+                    print("")
+                    print("")
+                    print("")
                     print(plikr)
+                    print("")
+                    print("")
+                    print("")
                 elif a == 3:
                     print("Czyszczenie...", end='')
-                    plik = open("/home/oem/kalkulatory/kalkulator v1.7/plik.txt", "w+")
+                    plik = open("plik.txt", "w+")
                     plik.write("")
                     plik.close()
-                    time.sleep(1)
+                    time.sleep(2)
                     print("zakończono")
                 elif a == 4:
                     stop4 = False
