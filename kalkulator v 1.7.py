@@ -298,7 +298,7 @@ try:
             print("| Używane biblioteki: |              sys, time, tqdm, colorama, numpy                         |")
             print("|_____________________|_______________________________________________________________________|")
             print("|                     |                                                                       |")
-            print("|       Kontakt:      |  e-mail: milicja@vip.onet.pl                                          |")
+            print("|       Kontakt:      |  e-mail: krecikstudiocode@gmail.com                                   |")
             print("|_____________________|_______________________________________________________________________|")
             print("|                                                                                             |")
             print("|                             Znalazłeś błąd, zgłoś go!                                       |")
